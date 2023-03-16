@@ -1,9 +1,9 @@
 {
      "author": "Brad Dayley",
-     "name": "censorify",
+     "name": "censoredwords",
      "version": "0.1.1",
      "description": "Censors words out of text",
-     "main": "censoredwords",
+     "main": "censortext",
      "repository": {
      "type": "git",
      "url": "https://github.com/Eswar-sai-Reddy/censoredwords"
